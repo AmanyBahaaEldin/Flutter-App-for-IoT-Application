@@ -8,7 +8,7 @@ class Login extends StatelessWidget {
   
   const Login({Key? key}) : super(key: key);
  
-  static const String _title = 'Smart Home';
+  static const String _title = 'Power Management System';
  
   @override
   Widget build(BuildContext context) {
